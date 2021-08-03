@@ -1,0 +1,22 @@
+PODS:
+  - WDPicker (0.1.2):
+    - WDPicker/WDAreaPicker (= 0.1.2)
+    - WDPicker/WDatePicker (= 0.1.2)
+    - WDPicker/WDCustomPicker (= 0.1.2)
+  - WDPicker/WDAreaPicker (0.1.2)
+  - WDPicker/WDatePicker (0.1.2)
+  - WDPicker/WDCustomPicker (0.1.2)
+
+DEPENDENCIES:
+  - WDPicker (from `../WDPicker.podspec`)
+
+EXTERNAL SOURCES:
+  WDPicker:
+    :path: "../WDPicker.podspec"
+
+SPEC CHECKSUMS:
+  WDPicker: 959c69ca7f098ff3a2205c37385937fb32103a13
+
+PODFILE CHECKSUM: 8ed72e664c74062522931d8b1f0e178f9ce377df
+
+COCOAPODS: 1.10.1

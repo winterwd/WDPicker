@@ -1,0 +1,6 @@
+framework module WDPicker {
+  umbrella header "WDPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

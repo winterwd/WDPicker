@@ -1,0 +1,19 @@
+
+platform :ios, '10.0'
+use_frameworks!
+
+target 'WDPicker_Example' do
+  pod 'WDPicker', :path => '../WDPicker.podspec'
+end
+#
+#target 'WDatePicker_Example' do
+#    pod 'WDPicker/WDatePicker', :path => '../WDPicker.podspec'
+#end
+#
+#target 'WDAreaPicker_Example' do
+#    pod 'WDPicker/WDAreaPicker', :path => '../WDPicker.podspec'
+#end
+#
+#target 'WDCustomPicker_Example' do
+#    pod 'WDPicker/WDCustomPicker', :path => '../WDPicker.podspec'
+#end

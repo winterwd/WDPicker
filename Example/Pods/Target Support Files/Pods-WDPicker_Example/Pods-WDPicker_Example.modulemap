@@ -1,0 +1,6 @@
+framework module Pods_WDPicker_Example {
+  umbrella header "Pods-WDPicker_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
