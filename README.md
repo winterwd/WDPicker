@@ -17,7 +17,7 @@ WDPicker is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-// 如果需要用到 datePicker 和 areaPicker
+// 如果需要用到 datePicker 和 areaPicker 已经自定义picker
 pod "WDPicker"
 
 // 如果只需要用到 datePicker 

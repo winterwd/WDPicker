@@ -18,7 +18,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'http://www.jianshu.com/u/06f42a993882'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'winter' => 'winterw201501@gmail.com' }
-  s.source           = { :git => 'https://git.thy360.com/ios-compose/jh_picker.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com:winterwd/WDPicker.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
 
