@@ -8,14 +8,14 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WDPicker'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A Picker for UI tools'
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'http://www.jianshu.com/u/06f42a993882'
+  s.homepage         = 'https://github.com/winterwd/WDPicker.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'winter' => 'winterw201501@gmail.com' }
   s.source           = { :git => 'https://github.com/winterwd/WDPicker.git', :tag => s.version.to_s }
